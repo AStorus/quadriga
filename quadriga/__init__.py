@@ -32,6 +32,11 @@ class QuadrigaClient(object):
         'eth_cad',
         'eth_btc',
         'ltc_cad',
+	'ltc_btc',
+	'bch_cad',
+	'bch_btc',
+	'btg_cad',
+	'btg_btc',
     }
 
     # Major currencies in QuadrigaCX
